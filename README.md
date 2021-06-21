@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shruti Saloni
+- 👀 I’m interested in learning new technologies in the field of machine learning.
+- 🌱 I’m currently learning computer vision in Machine Learning field.
+- 📫 How to reach me : https://www.linkedin.com/in/shruti-saloni-b9ba551a8/
